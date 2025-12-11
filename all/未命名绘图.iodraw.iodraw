@@ -17,7 +17,7 @@
           <mxGeometry x="190" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;1. 数据校验&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. 自动加签处理&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3. 特殊项处理（团建费→HRBP关注）&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;4. 发票处理（税务系统）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=1;spacingTop=0;spacing=2;spacingBottom=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="108" width="175" height="140" as="geometry" />
+          <mxGeometry x="20" y="108" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_3Y8N5VDj2OKBTL7Ddh7-4" target="_3Y8N5VDj2OKBTL7Ddh7-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,7 +59,7 @@
           <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-22" value="&lt;div&gt;1. 确定审批人类型（getPersonnelType）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. 查找下一审批人（getAfterApprovalUserId）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 处理加签/委派/改派&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 处理特殊流程&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 处理跨部门会审&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="224" y="165" width="190" height="190" as="geometry" />
+          <mxGeometry x="224" y="165" width="176" height="176" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
