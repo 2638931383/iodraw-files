@@ -99,8 +99,8 @@
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-36" value="【财务审核阶段】" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="420" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="490" width="120" height="60" as="geometry" />
+        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-38" value="&lt;div&gt;- 价税拆分&lt;/div&gt;&lt;div&gt;- 推送财务核心系统（step1）&lt;/div&gt;&lt;div&gt;- 预提账单冲销&lt;/div&gt;&lt;div&gt;- 通知税务系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="490" width="180" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
