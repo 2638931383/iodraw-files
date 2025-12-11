@@ -84,8 +84,8 @@
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-30" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="318" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-31" value="财务签收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="258" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
