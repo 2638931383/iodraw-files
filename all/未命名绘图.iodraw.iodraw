@@ -14,7 +14,13 @@
           <mxGeometry x="190" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;1. 数据校验&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;2. 自动加签处理&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3. 特殊项处理（团建费→HRBP关注）&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;4. 发票处理（税务系统）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=1;spacingTop=0;spacing=2;spacingBottom=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="100" width="260" height="140" as="geometry" />
+          <mxGeometry x="100" y="100" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="250" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
