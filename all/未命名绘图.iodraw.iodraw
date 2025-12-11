@@ -28,7 +28,7 @@
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-7" value="是否有加签人" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="410" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-10" value="&lt;div&gt;提交阶段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-10" value="&lt;div&gt;提交加签人审批&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="30" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
