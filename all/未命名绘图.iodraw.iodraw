@@ -62,7 +62,7 @@
           <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;1. 确定审批人类型（getPersonnelType）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. 查找下一审批人（getAfterApprovalUserId）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. 处理加签/委派/改派&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. 处理特殊流程&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. 处理跨部门会审&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="190" width="250" height="140" as="geometry" />
+          <mxGeometry x="720" y="188" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_3Y8N5VDj2OKBTL7Ddh7-20" target="_3Y8N5VDj2OKBTL7Ddh7-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
