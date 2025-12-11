@@ -13,7 +13,7 @@
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-2" value="&lt;div&gt;提交阶段&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-4" value="&lt;div&gt;1. 数据校验&lt;/div&gt;&lt;div&gt;2. 自动加签处理&lt;/div&gt;&lt;div&gt;3. 特殊项处理（团建费→HRBP关注）&lt;/div&gt;&lt;div&gt;4. 发票处理（税务系统）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=1;spacingTop=0;spacing=2;spacingBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-4" value="&lt;div style=&quot;font-size: 13px;&quot;&gt;1. 数据校验&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;2. 自动加签处理&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;3. 特殊项处理（团建费→HRBP关注）&lt;/div&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;4. 发票处理（税务系统）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=1;spacingTop=0;spacing=2;spacingBottom=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="100" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
