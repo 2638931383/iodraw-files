@@ -270,6 +270,9 @@
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-69" value="提交（状态NO_PUSH）&lt;div&gt;推送银行（状态PUSHING）&lt;br&gt;&lt;/div&gt;&lt;div&gt;银行自动处理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="980" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5dPYDIFDoOvRJPg7yYS3-70" target="5dPYDIFDoOvRJPg7yYS3-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-70" value="提交（状态NOT_PREPARED&lt;div&gt;导出数据到网银&lt;br&gt;&lt;/div&gt;&lt;div&gt;人工制单（状态VOUCHER_PREPARED）&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="980" width="245" height="60" as="geometry" />
         </mxCell>
@@ -282,8 +285,8 @@
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-76" value="定时任务查询结果&lt;div&gt;成功：RECEIVED&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;失败：保持PUSHING&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="1080" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5dPYDIFDoOvRJPg7yYS3-78" value="定时任务查询结果&lt;div&gt;成功：RECEIVED&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;失败：保持PUSHING&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="455" y="1070" width="220" height="50" as="geometry" />
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-78" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C%26lt%3Bdiv%26gt%3B%E6%88%90%E5%8A%9F%EF%BC%9ARECEIVED%26amp%3Bnbsp%3B%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26amp%3Bnbsp%3B%E5%A4%B1%E8%B4%A5%EF%BC%9A%E4%BF%9D%E6%8C%81PUSHING%26lt%3B%2Fdiv%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D12%3Bglass%3D0%3BstrokeWidth%3D1%3Bshadow%3D0%3BspacingTop%3D0%3Bspacing%3D2%3BspacingBottom%3D0%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22920%22%20y%3D%221080%22%20width%3D%22220%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="442.5" y="1070" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
