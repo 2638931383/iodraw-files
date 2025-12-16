@@ -165,7 +165,7 @@
           <mxGeometry x="500" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-22" value="融资支出单/集团内部转款/商城客户提现" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="606" width="240" height="40" as="geometry" />
+          <mxGeometry x="640" y="610" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-24" value="其他类型" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="559" width="80" height="40" as="geometry" />
@@ -192,6 +192,9 @@
           <mxGeometry x="170" y="650" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5dPYDIFDoOvRJPg7yYS3-38" target="_3Y8N5VDj2OKBTL7Ddh7-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5dPYDIFDoOvRJPg7yYS3-38" target="_3Y8N5VDj2OKBTL7Ddh7-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-38" value="&lt;div&gt;财务审核操作？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
