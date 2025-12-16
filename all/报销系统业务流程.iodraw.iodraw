@@ -264,6 +264,9 @@
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-67" value="&lt;div&gt;选择支付方式？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="750" y="970" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5dPYDIFDoOvRJPg7yYS3-69" target="5dPYDIFDoOvRJPg7yYS3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-69" value="提交（状态NO_PUSH）&lt;div&gt;推送银行（状态PUSHING）&lt;br&gt;&lt;/div&gt;&lt;div&gt;银行自动处理&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="920" y="980" width="220" height="60" as="geometry" />
         </mxCell>
@@ -276,8 +279,8 @@
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-75" value="网银经办" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="695" y="980" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5dPYDIFDoOvRJPg7yYS3-76" value="定时任务查询结果---成功：RECEIVED / 失败：保持PUSHING" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="920" y="1080" width="220" height="40" as="geometry" />
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-76" value="定时任务查询结果&lt;div&gt;成功：RECEIVED&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;失败：保持PUSHING&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="1080" width="220" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
