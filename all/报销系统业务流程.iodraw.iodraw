@@ -219,11 +219,16 @@
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-47" value="状态改为RETURN，通知税务系统，结束流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="860" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5dPYDIFDoOvRJPg7yYS3-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-49" value="&lt;div&gt;出纳打款操作？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="734.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="710" y="765" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-53" value="状态改为RETURN，通知税务系统，结束流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;spacingTop=0;spacing=2;spacingBottom=0;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="910" y="774.5" width="160" height="40" as="geometry" />
+          <mxGeometry x="910" y="790" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
