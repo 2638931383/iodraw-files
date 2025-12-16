@@ -209,7 +209,10 @@
           <mxGeometry x="580" y="674.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-45" value="回票单或实付金额为0" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="770" width="150" height="40" as="geometry" />
+          <mxGeometry x="550" y="752" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-46" value="驳回" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="812" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
