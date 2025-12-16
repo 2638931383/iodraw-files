@@ -64,6 +64,9 @@
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-23" value="&lt;div style=&quot;text-align: left;&quot;&gt;1. 确定审批人类型（getPersonnelType）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. 查找下一审批人（getAfterApprovalUserId）&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. 处理加签/委派/改派&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. 处理特殊流程&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. 处理跨部门会审&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="710" y="190" width="250" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_3Y8N5VDj2OKBTL7Ddh7-25" target="_3Y8N5VDj2OKBTL7Ddh7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-25" value="审批流完成？" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="500" y="430" width="80" height="80" as="geometry" />
         </mxCell>
