@@ -271,7 +271,10 @@
           <mxGeometry x="455" y="990" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-73" value="银企直连" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1040" y="1060" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="980" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-75" value="网银经办" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1060" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
