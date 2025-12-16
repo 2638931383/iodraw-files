@@ -85,7 +85,7 @@
           <mxGeometry x="160" y="652" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-33" value="财务签收" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="185" y="580" width="180" height="42" as="geometry" />
+          <mxGeometry x="185" y="559" width="180" height="42" as="geometry" />
         </mxCell>
         <mxCell id="_3Y8N5VDj2OKBTL7Ddh7-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_3Y8N5VDj2OKBTL7Ddh7-29" target="_3Y8N5VDj2OKBTL7Ddh7-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -167,7 +167,7 @@
           <mxGeometry x="500" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-22" value="融资支出单/集团内部转款/商城客户提现" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="670" width="240" height="40" as="geometry" />
+          <mxGeometry x="550" y="650" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
