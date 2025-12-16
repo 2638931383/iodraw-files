@@ -194,8 +194,8 @@
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5dPYDIFDoOvRJPg7yYS3-38" target="_3Y8N5VDj2OKBTL7Ddh7-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="772" />
-              <mxPoint x="580" y="697" />
+              <mxPoint x="540" y="772" />
+              <mxPoint x="540" y="697" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="5dPYDIFDoOvRJPg7yYS3-41" value="通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="674.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5dPYDIFDoOvRJPg7yYS3-45" value="回票单或实付金额为0" style="text;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="770" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
